@@ -1,0 +1,68 @@
+.logo{
+    margin-top: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+body,head,.sem-margin,section{
+    margin:0;
+}
+
+nav{
+    background-color: rgb(254, 2, 1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.margin-nav{
+    margin-left: 130px;
+    margin-right: 130px;
+    color:white;
+}
+body{
+    background-color:black;
+}
+p,h1,h2,table,label{
+    color: white;
+}
+section,.logo{
+    text-align: center;
+}
+footer{
+    text-align: end;
+}
+p{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+img{
+    margin-bottom: 50px;
+}
+table{
+    margin-top: 100px;
+    margin-left:550px ;
+    margin-bottom: 100px;
+}
+.campo-de-informação{
+    margin-left:10px
+    
+}
+.alinhar{
+    margin-left: 17px;
+}
+.botao-enviar{
+    background-color: yellow;
+    border: none;
+    border-radius: 36px;
+    padding: 10 10;
+    color:rgb(254, 2, 1);
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+.botao-enviar:hover{
+    opacity: 0.8;
+}
+.botao-enviar:active{
+    opacity: 0.2;
+}
