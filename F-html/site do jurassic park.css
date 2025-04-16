@@ -86,6 +86,7 @@ footer{
 .premios{
     background-image: url(jp_fundoSelva.jpg);
     height: 500px;
+    background-attachment: fixed;
 }
 .tabela{
     margin-top: 50px;
